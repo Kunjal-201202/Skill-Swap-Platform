@@ -1,4 +1,4 @@
-# 🎯 SkillHub – Connect, Learn, and Grow Together
+# 🎯 Skill Swap Platform – Connect, Learn, and Grow Together
 
 <div align="center">
 
@@ -7,8 +7,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8.15.1-47A248?style=for-the-badge&logo=mongodb)
 
-**A modern peer-to-peer learning platform that connects learners worldwide**
---Kunjalba Vala(Team Lead) Gmail: kunjalbavala@gmail.com
+**A mini application that enables users to list their skills and
+request others in return**
+
+
+Made by: Kunjalba Vala(Team Lead) 
+
+Gmail: kunjalbavala@gmail.com
 
 [🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
 
@@ -21,7 +26,6 @@
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Quick Start](#-quick-start)
-- [📸 Screenshots](#-screenshots)
 - [🏗️ Project Structure](#️-project-structure)
 - [🔧 Configuration](#-configuration)
 - [📱 Usage Guide](#-usage-guide)

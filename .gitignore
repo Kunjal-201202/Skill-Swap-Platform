@@ -1,0 +1,29 @@
+# Node modules (both client and server)
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+.env
+client/.env
+server/.env
+
+# Build folders (for React client)
+client/build/
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Editor folders (VS Code, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Optional: coverage reports (if you add tests)
+coverage/

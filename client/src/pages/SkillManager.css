@@ -1,0 +1,85 @@
+body {
+  background-color: #FDF6EC;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.skill-manager-container {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+.skill-manager-title {
+  color: #3E54AC;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.skill-card {
+  background-color: #ffffff;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  border-top: 6px solid #3E54AC;
+}
+
+.skill-card h3 {
+  color: #3E54AC;
+  margin-bottom: 1rem;
+}
+
+.skill-card ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+.skill-card li {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.del-btn {
+  background: transparent;
+  border: none;
+  color: red;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.input-group input {
+  padding: 0.6rem;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  width: 60%;
+  font-size: 1rem;
+}
+
+.add-btn {
+  background-color: #3E54AC;
+  color: #ffffff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-btn:hover {
+  background-color: #FEE440;
+  color: #3E54AC;
+}

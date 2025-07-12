@@ -8,7 +8,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-8.15.1-47A248?style=for-the-badge&logo=mongodb)
 
 **A modern peer-to-peer learning platform that connects learners worldwide**
---kunjalbavala@gmail.com
+--Kunjalba Vala(Team Lead) Gmail: kunjalbavala@gmail.com
 
 [🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
 
@@ -25,8 +25,6 @@
 - [🏗️ Project Structure](#️-project-structure)
 - [🔧 Configuration](#-configuration)
 - [📱 Usage Guide](#-usage-guide)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
@@ -86,7 +84,6 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/skillhub.git
-   cd skillhub
    ```
 
 2. **Install backend dependencies**
@@ -256,4 +253,4 @@ JWT_SECRET=your_jwt_secret_here
    - Track progress and goals
 
 ---
-
+# 💜😁THANK YOU💜😁
